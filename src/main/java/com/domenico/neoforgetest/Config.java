@@ -1,4 +1,4 @@
-package com.domenico.neoforgetes.neoforgetest;
+package com.domenico.neoforgetest;
 
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
