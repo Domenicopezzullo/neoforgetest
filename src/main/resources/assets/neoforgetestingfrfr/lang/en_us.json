@@ -1,4 +1,6 @@
 {
   "item.neoforgetestingfrfr.bismuth": "Bismuth",
-  "item.neoforgetestingfrfr.raw_bismuth": "Raw Bismuth"
+  "item.neoforgetestingfrfr.raw_bismuth": "Raw Bismuth",
+  "block.neoforgetestingfrfr.bismuth_block": "Block of Bismuth",
+  "block.neoforgetestingfrfr.bismuth_ore": "Bismuth Ore"
 }
